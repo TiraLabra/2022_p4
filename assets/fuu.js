@@ -13,13 +13,13 @@ const timing = {
     "paja12": {"date": "2020-10-13", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"}, */
     "dl1": {"date": "2022-03-19T23:59:59+02:00", "en": "DL 1", "fi": "DL 1"},
     "dl2": {"date": "2022-03-26T23:59:59+02:00", "en": "DL 2", "fi": "DL 2"},
-    "dl3": {"date": "2022-04-02T23:59:59+01:00", "en": "DL 3", "fi": "DL 3"},
-    "dl4": {"date": "2022-04-09T23:59:59+01:00", "en": "DL 4", "fi": "DL 4"},
-    "dl0": {"date": "2022-04-11T23:59:59+01:00", "en": "Holiday", "fi": "Loma"},
-    "dl5": {"date": "2022-04-23T23:59:59+01:00", "en": "DL 5", "fi": "DL 5"},
-    "dl6": {"date": "2022-04-30T23:59:59+01:00", "en": "DL 6", "fi": "DL 6"},
-    "dl7": {"date": "2022-05-02T23:59:59+01:00", "en": "Finalizing week", "fi": "Viimeistelyviikko"},
-    "dl8": {"date": "2022-05-09T23:59:59+01:00", "en": "Demo week", "fi": "Demoviikko"},/*
+    "dl3": {"date": "2022-04-02T23:59:59+03:00", "en": "DL 3", "fi": "DL 3"},
+    "dl4": {"date": "2022-04-09T23:59:59+03:00", "en": "DL 4", "fi": "DL 4"},
+    "dl0": {"date": "2022-04-11T23:59:59+03:00", "en": "Holiday", "fi": "Loma"},
+    "dl5": {"date": "2022-04-23T23:59:59+03:00", "en": "DL 5", "fi": "DL 5"},
+    "dl6": {"date": "2022-04-30T23:59:59+03:00", "en": "DL 6", "fi": "DL 6"},
+    "dl7": {"date": "2022-05-02T23:59:59+03:00", "en": "Finalizing week", "fi": "Viimeistelyviikko"},
+    "dl8": {"date": "2022-05-09T23:59:59+03:00", "en": "Demo week", "fi": "Demoviikko"},/*
     "demo": {"date": "2020-10-26", "fi": "Demotilaisuus", "en": "Demo Session", "common": "12-14 Zoom"},
     "demo2": {"date": "2020-10-26", "fi": "Demotilaisuus", "en": "Demo Session", "common": "16-18 Zoom"},
     "demo3": {"date": "2020-10-28", "fi": "Demotilaisuus", "en": "Demo Session", "common": "14-16 Zoom"},
