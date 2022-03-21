@@ -27,7 +27,7 @@ Aiheen voi keksiä itse, tai voit valita alla olevasta listasta itsellesi mielen
 
 ## Tiedon tiivistys
 
-* Tiedosto tulisi saada mahtumaan pienempään tilaan, miten tämä onnistuu? Toivottava lopullinen koko tekstiä pakattaessa on 40-60% alkuperäisestä koosta. Tiedosto pitää myös pystyä palauttamaan alkuperäiseen muotoon. Tekstiä on mielekästä pakata vain häviöttömillä pakkausmenetelmillä, kuvaa ja ääntä voi pakata myös häviöllisillä menetelmillä. Sopiva laajuus on kahden pakkausalgoritmin vertailu, esim. Huffman vs Lempel Ziv. Jotkin pakkausmenetelmät ovat niin vaativia, että yhdenkin toteuttaminen riittää. Voit käyttää kielen valmiita tietorakenteita. Katso [Tiedonpakkaus](https://fi.wikipedia.org/wiki/Tiedonpakkaus) 
+* Tiedosto tulisi saada mahtumaan pienempään tilaan, miten tämä onnistuu? Toivottava lopullinen koko tekstiä pakattaessa on 40-60% alkuperäisestä koosta. Tiedosto pitää myös pystyä palauttamaan alkuperäiseen muotoon. Tekstiä on mielekästä pakata vain häviöttömillä pakkausmenetelmillä, kuvaa ja ääntä voi pakata myös häviöllisillä menetelmillä. Sopiva laajuus on kahden pakkausalgoritmin vertailu, esim. Huffman vs Lempel Ziv. Jotkin pakkausmenetelmät ovat niin vaativia, että yhdenkin toteuttaminen riittää. Voit käyttää kielen valmiita tietorakenteita. Katso [Tiedonpakkaus](https://fi.wikipedia.org/wiki/Tiedonpakkaus) Aikataulua arvioidessa kannattaa huomata, että ohjelmointikielestä riippuen binääridatan tallettamisen ja lukemisen toteuttamienn voi vaatia reilusti aikaa, ellei se ole ennestään tuttua. Se ei onnistu samoilla välineillä kuin tekstitiedoston käsittely.
 
 
 ## Pelit
